@@ -1,0 +1,6 @@
+[package]
+name = "rust-multisig"
+version = "0.1.0"
+authors = ["bodymindarts <bodymindarts@online.de>"]
+
+[dependencies]
